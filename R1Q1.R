@@ -1,0 +1,10 @@
+l1<-c(5,6,4,7,8,10,5,3)
+l2<-c(9,6,3,4,5,8,6,4)
+a=l1+l2
+b=l1-l2
+c=l1*l2
+d=l1/l2
+print(a)
+print(b)
+print(c)
+print(d)
